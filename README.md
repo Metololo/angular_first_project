@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Description
 
-This purpose of these project is to put in practice everything i've learned about angular so far.
+The purpose of this project is to put in practice everything i've learned about angular so far.
 
 It is a very simple chair shopping website with 3 pages :
 
